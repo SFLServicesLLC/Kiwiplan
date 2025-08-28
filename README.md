@@ -1,6 +1,6 @@
 # Kiwiplan
 
-![SFL Service LLC](Kiwiplan/favicon.ico)
+![SFL Service LLC](favicon.ico)
 [SFL Service LLC](https://www.sflservicellc.com)
 
 This Application is for the MAP, MES of the Kiwiplan applications suit.
@@ -22,7 +22,7 @@ These scripts are intended to be run with or on the Kiwiplan enviroments.
 
 ## Versions
 
-- [1.0.1](VERSION)
+- [1.4](VERSION)
 
 ## Featuring
 
