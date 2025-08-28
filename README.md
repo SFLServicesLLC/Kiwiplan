@@ -1,6 +1,6 @@
 # Kiwiplan
 
-![SFL Service LLC](Kiwiplan/Favicon.ico)
+![SFL Service LLC](Kiwiplan/favicon.ico)
 [SFL Service LLC](https://www.sflservicellc.com)
 
 This Application is for the MAP, MES of the Kiwiplan applications suit.
